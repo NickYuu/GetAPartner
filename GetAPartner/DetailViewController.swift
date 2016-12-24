@@ -27,7 +27,7 @@ class DetailViewController: UIViewController {
     @IBOutlet weak var phone: UIButton!
     @IBOutlet weak var share: UIButton!
     
-    // MARK:- 系統調用函式
+    // MARK:- 系統呼叫函式
     override func viewDidLoad() {
         super.viewDidLoad()
         

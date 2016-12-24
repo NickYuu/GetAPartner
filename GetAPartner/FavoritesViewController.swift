@@ -18,7 +18,7 @@ class FavoritesViewController: UIViewController {
     // MARK:- 元件屬性
     @IBOutlet weak var tableView: UITableView!
     
-    // MARK:- 系統調用的函式
+    // MARK:- 系統呼叫的函式
     override func viewDidLoad() {
         super.viewDidLoad()
         setupUI()
